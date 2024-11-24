@@ -93,7 +93,7 @@ const MetalPriceAPI = () => {
                   "0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00",
               }}
             >
-              <strong>Gold Price (24k):</strong> ₹{prices.goldInInr} per 10 grams
+              <strong>Gold Price (22k):</strong> ₹{prices.goldInInr} per 10 grams
             </p>
             <p
               style={{
