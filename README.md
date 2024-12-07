@@ -1,8 +1,12 @@
-# React + Vite
+# Shiv Ajay Jewellers  Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Shiv Ajay Jewellers**. This website showcases an array of handcrafted gold and silver jewelry collections.
 
-Currently, two official plugins are available:
+## Preview
+### Homepage and Products
+Below are glimpses of the website:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div align="center">
+  <img src="./src/assets/image1.jpeg" alt="Product Display" width="45%">
+  <img src="./src/assets/image2.jpeg" alt="Gold Price and Collections" width="45%">
+</div>
